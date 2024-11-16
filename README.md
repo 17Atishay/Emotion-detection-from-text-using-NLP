@@ -2,14 +2,14 @@
 This project uses Natural Language Processing (NLP) to detect emotions such as angry, happy, sad, and more from a given sentence or text. It is deployed using Streamlit, creating an interactive web application for user input and emotion prediction.
 
 __Features__<br>
-Input a sentence or text to detect the associated emotion.
-Interactive web interface powered by Streamlit.
-Categorizes emotions into classes such as angry, happy, sad, etc.
+Input a sentence or text to detect the associated emotion.<br>
+Interactive web interface powered by Streamlit.<br>
+Categorizes emotions into classes such as angry, happy, sad, etc.<br>
 
 __Project Files__<br>
-app.py: Main script for deploying the Streamlit application.
-Text emotion detection.ipynb: Jupyter Notebook for training and testing the model.
-model.pkl: Pre-trained machine learning model used in the application.
+app.py: Main script for deploying the Streamlit application.<br>
+Text emotion detection.ipynb: Jupyter Notebook for training and testing the model.<br>
+model.pkl: Pre-trained machine learning model used in the application.<br>
 
 __How to run the project on your machine:__<br>
 1) Open all files in one folder on any code editor like vscode.
